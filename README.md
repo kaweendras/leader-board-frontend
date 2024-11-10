@@ -28,6 +28,12 @@ Make sure you have the following installed:
 
 ### Running the Application
 
+Rename the `.env.example` file to `.env` and set the environment variable `VITE_API_BASE_URL` to the URL of the backend API. For example:
+
+```sh
+VITE_API_BASE_URL= given backend api url
+```
+
 To start the development server, run:
 
 ```sh
