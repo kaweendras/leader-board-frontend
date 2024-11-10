@@ -1,8 +1,37 @@
-# React + Vite
+# Leader Board Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application for displaying a leaderboard. It uses Vite for development and build processes.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [npm](https://www.npmjs.com/) (version 6 or higher)
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/kaweendras/leader-board-frontend.git
+   cd leader-board-frontend
+   ```
+
+2. Install the dependencies:
+
+   ```sh
+   npm install
+   ```
+
+### Running the Application
+
+To start the development server, run:
+
+```sh
+npm run dev
+```
+
+The application will be available at [ http://localhost:5173/](http://localhost:5173/).
